@@ -1,9 +1,9 @@
 colors = {
-    "github": "110, 84, 148",
+    "github": "203, 166, 247",
     "twitter": "29, 161, 242",
     "anilist": "18, 39, 94",
-    "discord": "95, 125, 201",
-    "reddit": "252, 5, 5",
+    "discord": "137, 180, 250",
+    "reddit": "250, 179, 135",
 }
 
 window.onload = function () {

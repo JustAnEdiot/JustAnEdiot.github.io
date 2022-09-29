@@ -290,12 +290,12 @@ code {
     font-size: 0.9em;
     margin: 0 0.25em;
     padding: 0.25em 0.5em;
-    background-color: rgba(144, 144, 144, 0.25);
+    background-color: rgba(30, 30, 46, 0.25);
     border-radius: 0.25em;
 }
 
 mark {
-    background-color: rgba(144, 144, 144, 0.25);
+    background-color: rgba(30, 30, 46, 0.25);
 }
 
 s {
@@ -507,7 +507,7 @@ p .li {
 }
 
 #h1 {
-    color: #FFFFFF;
+    color: #b4befe;
     font-family: 'Roboto', sans-serif;
     font-size: 2.5em;
     line-height: 1.25;
@@ -527,7 +527,7 @@ p .li {
 }
 
 .inner > p {
-    color: #FFFFFF;
+    color: #cdd6f4;
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
     line-height: 1.75;
@@ -602,7 +602,7 @@ p .li {
 }
 
 #icons01 a svg {
-    fill: #fff;
+    fill: #cdd6f4;
 }
 
 #icons01 li a+svg {
@@ -610,23 +610,23 @@ p .li {
 }
 
 #icons01 .n01:hover {
-    background-color: #12275E !important;
+    background-color: #313244 !important;
 }
 
 #icons01 .n02:hover {
-    background-color: #5F7DC9 !important;
+    background-color: #b4befe !important;
 }
 
 #icons01 .n03:hover {
-    background-color: #FC0505 !important;
+    background-color: #f38ba8 !important;
 }
 
 #icons01 .n04:hover {
-    background-color: #0085FF !important;
+    background-color: #89b4fa !important;
 }
 
 #icons01 .n05:hover {
-    background-color: #24FF00 !important;
+    background-color: #a6e3a1 !important;
 }
 
 .icc-credits {
@@ -679,7 +679,7 @@ p .li {
     left: -1px;
     width: calc(100% + 2px);
     height: calc(100% + 2px);
-    background-image: linear-gradient(30deg, #A464A1 15%, #3B5DAD 85%);
+    background-image: linear-gradient(30deg, #cba6f7 15%, #1e1e2e 85%);
     opacity: 0;
     pointer-events: none;
     border-radius: inherit;
@@ -709,7 +709,7 @@ p .li {
 }
 
 #credits span {
-    color: rgba(255, 255, 255, 0.498);
+    color: rgba(205, 214, 244, 0.498);
     margin-top: 1.5rem !important;
 }
 
